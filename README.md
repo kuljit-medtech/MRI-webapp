@@ -4,6 +4,8 @@ An interactive web application for automated MRI brain tissue segmentation, anal
 
 ## Live Demo
 
+👉 **[Click here to use the app](https://kuljit-medtech-mri-webapp.streamlit.app)**
+
 Upload any NIfTI MRI scan and instantly get:
 - Real-time brain slice navigation
 - Automated tissue segmentation
