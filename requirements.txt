@@ -1,0 +1,9 @@
+nibabel
+nilearn
+matplotlib
+numpy
+scipy
+scikit-learn
+reportlab
+pandas
+streamlit
